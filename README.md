@@ -1,4 +1,4 @@
-# 3functionsFeb32023
+
 I wrote a few completely different functions below. These are practice exercises. 
 
 Function 1: I wrote a basic function to write about my activities for the day. 
